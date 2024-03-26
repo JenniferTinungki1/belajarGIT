@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Seni</title>
+    <style>
+        /* CSS styling goes here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        .article {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        .article h1 {
+            color: #343a40;
+        }
+        .article p {
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog Seni</h1>
+    </header>
+    <main>
+        <div class="article">
+            <h2>Pengertian Seni Menurut Para Ahli</h2>
+            <p>Seni adalah ekspresi kreatif manusia yang melibatkan berbagai medium dan teknik. Menurut beberapa ahli, seni adalah cara manusia untuk menyampaikan ide, emosi, dan pengalaman melalui bentuk visual, audio, atau gerakan.</p>
+        </div>
+        <div class="article">
+            <h2>Seni Lukis Terkenal di Dunia</h2>
+            <p>Lukisan adalah salah satu bentuk seni yang telah ada sejak zaman kuno. Lukisan terkenal seperti Mona Lisa karya Leonardo da Vinci dan Starry Night karya Vincent van Gogh telah menjadi ikon seni dunia.</p>
+        </div>
+        <div class="article">
+            <h2>Perkembangan Seni Rupa Kontemporer</h2>
+            <p>Seni rupa kontemporer adalah aliran seni yang terus berkembang dan mencakup berbagai teknik dan gaya. Seniman kontemporer sering mengeksplorasi tema-tema sosial dan politik dalam karyanya, serta menggunakan media baru dan eksperimen visual.</p>
+        </div>
+    </main>
+</body>
+</html>

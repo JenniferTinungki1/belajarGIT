@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article: Sports</title>
+    <style>
+        /* CSS styling goes here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        .article {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        .article h1 {
+            color: #343a40;
+        }
+        .article p {
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Article: Sports</h1>
+    </header>
+    <main>
+        <div class="article">
+            <h2>The Benefits of Regular Exercise</h2>
+            <p>Regular exercise has numerous benefits for physical and mental health. It helps to improve cardiovascular health, increase muscle strength, and maintain a healthy weight. Exercise also releases endorphins, which can improve mood and reduce stress.</p>
+        </div>
+        <div class="article">
+            <h2>Tips for Starting a New Fitness Routine</h2>
+            <p>Starting a new fitness routine can be intimidating, but with the right approach, it can be enjoyable and rewarding. Begin by setting realistic goals and gradually increasing the intensity of your workouts. Find activities that you enjoy and make exercise a regular part of your routine.</p>
+        </div>
+        <div class="article">
+            <h2>The Role of Nutrition in Athletic Performance</h2>
+            <p>Nutrition plays a crucial role in athletic performance. Eating a balanced diet that includes a variety of nutrients is essential for fueling workouts and supporting recovery. Athletes should focus on consuming adequate carbohydrates, proteins, and fats, as well as staying hydrated.</p>
+        </div>
+    </main>
+</body>
+</html>

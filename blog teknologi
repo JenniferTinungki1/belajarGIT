@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Teknologi</title>
+    <style>
+        /* CSS styling goes here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #343a40;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        .article {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        .article h1 {
+            color: #343a40;
+        }
+        .article p {
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog Teknologi</h1>
+    </header>
+    <main>
+        <div class="article">
+            <h2>Kelebihan dan Kekurangan Teknologi 5G</h2>
+            <p>Teknologi 5G memiliki kecepatan internet yang sangat tinggi dan keterlambatan yang rendah, tetapi juga menimbulkan kekhawatiran terkait privasi dan keamanan data.</p>
+        </div>
+        <div class="article">
+            <h2>Perkembangan Teknologi Kecerdasan Buatan</h2>
+            <p>Kecerdasan buatan (AI) telah mengalami perkembangan pesat dalam beberapa tahun terakhir, dengan aplikasi dalam berbagai industri seperti kesehatan, otomotif, dan finansial.</p>
+        </div>
+        <div class="article">
+            <h2>Tren Teknologi Terbaru di Tahun Ini</h2>
+            <p>Beberapa tren teknologi terbaru termasuk Internet of Things (IoT), realitas virtual (VR), dan blockchain, yang semuanya memiliki potensi untuk mengubah cara kita hidup dan bekerja.</p>
+        </div>
+    </main>
+</body>
+</html>
